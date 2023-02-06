@@ -1,0 +1,6 @@
+yandex-s3
+fastapi
+orjson
+pydantic[dotenv]
+uvicorn
+uvloop
